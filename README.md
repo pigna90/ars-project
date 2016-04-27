@@ -10,12 +10,12 @@ Gli amministratori del sito ci hanno fornito un drop del database contenente tut
 - architecture – architettura del processore
 - distribution – distribuzione
 
-
-[Linux Counter]: <http://linuxcounter.net/>
-
 ### Tech
 Il progetto è scritto interamentre in python. Ogni test è stato eseguito utilizzando python3.x o superiore.
 
 ### Contributors
-Alessandro Romano
-Tommaso Furlan
+**Alessandro Romano**
+
+**Tommaso Furlan**
+
+[Linux Counter]: <http://linuxcounter.net/>
