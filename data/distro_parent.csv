@@ -1,0 +1,120 @@
+distro,parent
+Debian,Debian
+Ubuntu,Debian
+Slackware,Slackware
+Linux Mint,Debian
+Kubuntu,Ubuntu
+Fedora,Red Hat
+openSUSE,openSUSE
+OpenELEC,OpenELEC
+Zorin OS,Ubuntu
+PCLinuxOS,Mandrake
+Xubuntu,Ubuntu
+Manjaro Linux,Debian
+Kanotix,Debian
+Knoppix,Debian
+ALT Linux,Mandrake
+CentOS,Red Hat
+BunsenLabs,Debian
+Bodhi,Ubuntu
+elementary OS,Ubuntu
+SolydXK,Debian
+Mageia,Mandrake
+Vine Linux,Red Hat
+Puppy Linux,Slackware
+Guadalinex,Debian
+Scientific Linux,Red Hat
+Antergos,Arch
+OpenWrt,OpenWrt
+Raspbian GNU/Linux,Debian
+Gentoo Linux,Gentoo Linux
+IPFire,IPCop
+MontaVista Linux,MontaVista Linux
+Android,Android
+Linux From Scratch,Linux From Scratch
+Arch,Arch
+DD-WRT,DD-WRT
+wrt54g-linux,Debian
+OpenEmbedded,openSUSE
+OpenZaurus,OpenZaurus
+Maemo,Debian
+VectorLinux,Slackware
+Mandriva,Mandriva
+Red Hat,Red Hat
+CRUX,CRUX
+CrunchBang Linux,Ubuntu
+Sabayon,Gentoo Linux
+Salix OS,Slackware
+Calculate Linux,Gentoo Linux
+PLD,Red Hat
+Lubuntu,Ubuntu
+Backtrack,Debian
+Funtoo,Gentoo Linux
+Chakra,Arch
+aptosid,Debian
+AntiX,Mepis
+Crunchbang Linux,Ubuntu
+Trisquel GNU/Linux,Debian
+Blankon,Debian
+Asturix,Kubuntu
+JoliCloud,Ubuntu
+Fuduntu,Fedora
+Damn Small Linux,Knoppix
+UberStudent,Ubuntu
+Tiny Core Linux,Tiny Core Linux
+Ultimate Edition,Ubuntu
+Zenwalk,Slackware
+Peppermint,Lubuntu
+ArchBang,Arch
+Canaima GNU/Linux,Debian
+Red Hat Enterprise,Red Hat
+Chromium OS,Ubuntu
+Zentyal,Ubuntu
+Netrunner,Ubuntu
+MintPPC,Ubuntu
+gNewSense,Ubuntu
+Mythbuntu,Ubuntu
+Chapeau,Fedora
+Vyatta,Debian
+Pardus,Debian
+Oracle Linux,Red Hat
+ClearOS,Red Hat
+SME server,Fedora
+LinHES,Arch
+SmoothWall,SmoothWall
+IPCop,SmoothWall
+rPath,rPath
+Pidora,Fedora
+Endian Firewall Community,Red Hat
+OpenNA Linux,Fedora
+sms,Slackware
+OpenPsion,Debian
+FreeBSD,FreeBSD
+CyanogenMod,Android
+Meego,Moblin
+Mer,Meego
+DEFT,Lubuntu
+Voyage Linux,Debian
+Semplice,Debian
+DIY,DIY
+Mandrake,Red Hat
+Mepis,Debian
+BU Linux,Fedora
+Source Mage GNU/Linux,Sorcerer
+Saline OS,Debian
+Siduction,sidux
+ConnochaetOS,Slackware
+VENENUX GNU/Linux,Debian
+DreamLinux,Morphix
+Ubuntu Satanic Edition,Ubuntu
+ABC GNU/Linux,Ubuntu
+Alpine,Alpine
+Slamd64,Slackware
+Parted Magic,Parted Magic
+OpenMandriva,Mandriva
+Slitaz,Slitaz
+PinguyOS,Ubuntu
+Moblin,Moblin
+Sorcerer,Sorcerer
+sidux,Debian
+Morphix,Debian
