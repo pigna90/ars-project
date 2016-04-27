@@ -10,6 +10,8 @@ Gli amministratori del sito ci hanno fornito un drop del database contenente tut
 - architecture – architettura del processore
 - distribution – distribuzione
 
+Il progetto è stato svolto per il corso di **Analisi delle Reti Sociali a.a 2015/16** dell'**Università di Pisa**.
+
 ### Tech
 Il progetto è scritto interamentre in python. Ogni test è stato eseguito utilizzando python3.x o superiore.
 
