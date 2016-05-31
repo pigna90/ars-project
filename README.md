@@ -16,9 +16,8 @@ Il progetto è stato svolto per il corso di **Analisi delle Reti Sociali a.a 201
 Il progetto è scritto interamentre in python. Ogni test è stato eseguito utilizzando python3.x o superiore.
 
 ### Authors
-[Alessandro Romano]
-[Tommaso Furlan]
+ [Alessandro Romano]
+ Tommaso Furlan
 
 [Linux Counter]: <http://linuxcounter.net/>
 [Alessandro Romano]: mailto:alessandro.romano@linux.com
-[Tommaso Furlan]: mailto:tommy.furlan@hotmail.it
